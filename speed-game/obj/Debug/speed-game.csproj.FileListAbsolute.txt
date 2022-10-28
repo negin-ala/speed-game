@@ -1,0 +1,6 @@
+C:\Negin_GameProject\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\Negin_GameProject\WindowsFormsApplication26\obj\Debug\Interop.WMPLib.dll
+C:\Negin_GameProject\WindowsFormsApplication26\obj\Debug\AxInterop.WMPLib.dll
+C:\Negin_GameProject\WindowsFormsApplication26\obj\Debug\Negin_GameProject.csproj.ResolveComReference.cache
+C:\Negin_GameProject\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\Negin_GameProject\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
